@@ -1,12 +1,6 @@
 {
   "listings": [
     {
-      "id": 1,
-      "description": "heater",
-      "image": "./images/heater.jpg",
-      "location": "BROOKLYN"
-    },
-    {
       "id": 2,
       "description": "2019 Toyota Tacoma grill",
       "image": "./images/toyota-grill.jpg",
@@ -29,12 +23,6 @@
       "description": "wood",
       "image": "./images/wood.jpg",
       "location": "Greenpoint"
-    },
-    {
-      "id": 6,
-      "description": "Beautiful couch",
-      "image": "./images/couch.jpg",
-      "location": "Bay Ridge"
     },
     {
       "id": 7,
